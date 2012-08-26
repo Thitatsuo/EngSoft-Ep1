@@ -1,0 +1,7 @@
+EP1 - Controle de Pedidos
+
+Para este primeiro ep, tive que aprender o básico de Hibernate e VRaptor. Para tanto, segui a apostila da Caelum FJ28.
+Segui os exemplos e tarefas, e no fim fiz as alterações necessárias para cumprir as tarefas pedidas no EP.
+Por isso muito dos modelos e códigos ficaram semelhantes ao do exemplo "good buy".
+Tive dificuldade para alterar algumas pastas e arquivos com nome de "good buy" para ep1, e acabei optando por deixar assim mesmo.
+As mudanças acarretavam erro no servido TomCat ("Could not publish server configuration for Tomcat v7.0 Server at localhost." "Multiple Contexts have a path of"/ep1")
